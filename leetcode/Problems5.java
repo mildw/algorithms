@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.*;
 
-public class LongestPalindromicSubstring {
+public class Problems5 {
 
     /* https://leetcode.com/problems/longest-palindromic-substring/description/ */
     public String longestPalindrome(String s) {
